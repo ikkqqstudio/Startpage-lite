@@ -1,0 +1,13 @@
+h1 {
+    color: #ff004cff;
+    text-shadow: 3px 3px 0px #555555ff;
+    font-family: sans-serif;
+}
+h2 {
+    background: linear-gradient(90deg,#001fbbff, #0000);
+    color: #fff
+}
+h3 {
+    background: linear-gradient(90deg,#001fbbb5, #0000);
+    color: #fff
+}
