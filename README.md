@@ -1,1 +1,1 @@
-A Really Simple Open-source Lightweight Startpage, Currently WIP
+An Really Simple Open-source Lightweight Startpage, Currently WIP
