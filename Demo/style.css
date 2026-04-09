@@ -1,13 +1,42 @@
 h1 {
-    color: #ff004cff;
-    text-shadow: 3px 3px 0px #555555ff;
-    font-family: sans-serif;
+    background: linear-gradient(#404040ff, #1e1e1eff);
+    padding: 20px 10px;
+    margin-top: 1px;
+    color: #fff;
+    text-shadow: 0 2px 0 #000;
+    text-align: center;
+    font-size: 45px;
+    border: 3px solid #000;
 }
 h2 {
-    background: linear-gradient(90deg,#001fbbff, #0000);
-    color: #fff
+    background: linear-gradient( #ffffffff, #d1d1d1ff);
+    padding: 5px 5px;
+    color: #000;
+    text-shadow: 0 2px 0 #d3d3d3ff;
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid #ddddddff;
 }
 h3 {
-    background: linear-gradient(90deg,#001fbbb5, #0000);
-    color: #fff
+    padding: 5px 5px;
+    font-size: 17px;
+    border: 2px solid #dddddd40;
+}
+body {
+    font-family: sans-serif;
+    background: #edededff;
+    padding: 2% 3%;
+}
+.Category a {
+    display: inline-block;
+    text-decoration:none;
+    color: #000;
+    font-weight: 500;
+}
+.Category a:hover {
+    font-weight: 600;
+}
+.Container {
+    background: #ffffffff;
+    padding: 10px;
 }
